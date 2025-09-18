@@ -51,9 +51,8 @@ Documenting my **100 Days of Data Science Journey** 🚀
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [Insert your LinkedIn URL]  
-- Email: [Insert your professional email]  
-
+- LinkedIn: https://www.linkedin.com/in/abu-talha-7a1ba4277/  
+- Email: talhask646@gmail.com
 ---
 
 ## 🌟 Fun Fact
