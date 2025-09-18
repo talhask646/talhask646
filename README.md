@@ -39,7 +39,6 @@ Documenting my **100 Days of Data Science Journey** 🚀
 - **Highlights:** EDA, top genres, release trends, visual storytelling  
 - **Repo Link:** [Insert link here]
 
-*(Add more projects as you complete them)*
 
 ---
 
